@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1035487390731",
+    "project_id": "projek-skripsi-game-edukasi",
+    "storage_bucket": "projek-skripsi-game-edukasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035487390731:android:e0de2c8f74a4220f7dab0e",
+        "android_client_info": {
+          "package_name": "com.GameEdukasi.CeritaRakyat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035487390731-26dh16ubm3movm7glrdp3utq0p233d74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GameEdukasi.CeritaRakyat",
+            "certificate_hash": "f4b9619d3885dd9b0b3c280b40811e4a5ce14479"
+          }
+        },
+        {
+          "client_id": "1035487390731-ghpf9i8ab4m1pd7r9fl56j5l6688k0nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GameEdukasi.CeritaRakyat",
+            "certificate_hash": "f037cbc58bb31636bd44ff1aff2655a0e9a653c7"
+          }
+        },
+        {
+          "client_id": "1035487390731-26fqcefdheuu25gffil2avo2uol82se6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKCpi7Pz2mL4SKEVXnutnPsiQvuJKCqFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035487390731-26fqcefdheuu25gffil2avo2uol82se6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
